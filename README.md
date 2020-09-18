@@ -15,7 +15,7 @@
 * Viewmodel
 * databinding
 * Room Database
-* Material Design
+* Material Design Component
 * Navigation Component
 
 
