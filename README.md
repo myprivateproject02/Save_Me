@@ -17,6 +17,7 @@
 * Room Database
 * Material Design Component
 * Navigation Component
+* MVVM Architecture
 
 ###  ScreenShorts
 
