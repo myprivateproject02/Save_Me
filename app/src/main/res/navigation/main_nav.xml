@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.save_me.ui.main.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_save_Fragment"
+            app:destination="@id/save_Fragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_save_Fragment2"
+            app:destination="@id/save_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/save_Fragment"
+        android:name="com.example.save_me.ui.main.Save_Fragment"
+        android:label="fragment_save_"
+        tools:layout="@layout/fragment_save_" >
+        <action
+            android:id="@+id/action_save_Fragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <argument
+            android:name="Note"
+            app:argType="com.example.save_me.model.Note" />
+    </fragment>
+</navigation>
