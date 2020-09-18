@@ -18,8 +18,8 @@
 * Material Design
 * Navigation Component
 
-<!--image -->
-###Some ScreenShorts
+
+### Some ScreenShorts
 
 <img src ="/sample_images/img1.png" width="150" height="300">
 
