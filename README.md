@@ -20,13 +20,21 @@
 
 ### Some ScreenShorts
 
-<p float="left">
+
+<table>
+  <tr>
+    <td>Home Screen</td>
+     <td>Add Note</td>
+     <td>Update Note</td>
+  </tr>
+  <tr>
+    
 <img src ="/sample_images/img3.png" width="150" height="300">
 <img src ="/sample_images/img1.png" width="150" height="300">
 <img src ="/sample_images/img2.png" width="150" height="300">
-</p>
-
-
+   
+</tr>
+</table>
 
 
 
