@@ -15,17 +15,17 @@
 * Viewmodel
 * databinding
 * Room Database
-* Material Design Component
+* Material Design
 * Navigation Component
-* MVVM Architecture
 
-###  ScreenShorts
 
-<p float="left">
-<img src ="/sample_images/img3.png" width="200" height="400"> &nbsp;&nbsp;
-<img src ="/sample_images/img1.png" width="200" height="400"> &nbsp;&nbsp;
-<img src ="/sample_images/img2.png" width="200" height="400"> &nbsp;&nbsp;
-</p>
+### Some ScreenShorts
+
+<img src ="/sample_images/img1.png" width="150" height="300">
+<img src ="/sample_images/img2.png" width="150" height="300">
+
+
+
 
 
 
