@@ -29,6 +29,12 @@
 </p>
 
 
+### Project Structure
+<p float="left">
+<img src ="/sample_images/img4.png" width="150" height="300"> &nbsp;&nbsp;
+</p>
+
+
 
 
 
