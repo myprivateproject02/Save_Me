@@ -21,7 +21,8 @@
 <!--image -->
 ###Some ScreenShorts
 
-![image_1](/sample_images/img1.png)
+<img src ="/sample_images/img1.png" width="150" height="300">
+
 
 
 
