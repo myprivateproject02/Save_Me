@@ -31,7 +31,7 @@
 
 ### Project Structure
 <p float="left">
-<img src ="/sample_images/img4.png" width="150" height="300"> &nbsp;&nbsp;
+<img src ="/sample_images/img4.png" width="400" height="800"> &nbsp;&nbsp;
 </p>
 
 
