@@ -18,7 +18,7 @@
 * Material Design Component
 * Navigation Component
 
-### Some ScreenShorts
+###  ScreenShorts
 
 <p float="left">
 <img src ="/sample_images/img3.png" width="150" height="300">
