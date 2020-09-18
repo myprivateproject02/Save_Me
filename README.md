@@ -20,7 +20,6 @@
 
 ### Some ScreenShorts
 
-
 <table>
   <tr>
     <td>Home Screen</td>
@@ -28,14 +27,11 @@
      <td>Update Note</td>
   </tr>
   <tr>
-    
-<img src ="/sample_images/img3.png" width="150" height="300">
-<img src ="/sample_images/img1.png" width="150" height="300">
-<img src ="/sample_images/img2.png" width="150" height="300">
-   
+    <td><img src ="/sample_images/img3.png" width="150" height="300"></td>
+    <td><img src ="/sample_images/img1.png" width="150" height="300"></td>
+    <td><img src ="/sample_images/img2.png" width="150" height="300"></td>
 </tr>
 </table>
-
 
 
 
