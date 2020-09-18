@@ -9,7 +9,7 @@
 <!------------
 -->
 
-<Blockquote>
+
 <!--ul-->
 * Hilt (dependency injection)
 * Viewmodel
