@@ -6,7 +6,7 @@
 <!-- Strong -->
 >  This Is A Simple _Save_Notes_ Application But With Advanced Library.
 
-#### Implimenting Room Database with Hilt.
+#### Implementing Room Database with Hilt.
 
 <!------------
 -->
