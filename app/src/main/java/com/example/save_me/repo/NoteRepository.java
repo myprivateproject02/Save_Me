@@ -14,7 +14,7 @@ public class NoteRepository {
 
     private NoteDao noteDao;
     LiveData<List<Note>> allNotes;
-    
+
 
     @Inject
     public NoteRepository(NoteDao noteDao) {
