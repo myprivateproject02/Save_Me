@@ -35,6 +35,11 @@
 </p>
 
 
+### soon upcoming
+<!--ul-->
+* Save Online As Well As Offline (db = Firestore)
+* Set Reminder (Background Services...)
+
 
 
 
